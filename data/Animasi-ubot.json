@@ -1,0 +1,319 @@
+{
+  "loading": {
+    "name": "loading",
+    "desc": "Bar loading 0→100%",
+    "defaultDelay": 0.4,
+    "frames": [
+      {
+        "text": "[▱▱▱▱▱▱▱▱▱▱]   0%"
+      },
+      {
+        "text": "[▰▰▱▱▱▱▱▱▱▱]  20%"
+      },
+      {
+        "text": "[▰▰▰▰▱▱▱▱▱▱]  40%"
+      },
+      {
+        "text": "[▰▰▰▰▰▰▱▱▱▱]  60%"
+      },
+      {
+        "text": "[▰▰▰▰▰▰▰▰▱▱]  80%"
+      },
+      {
+        "text": "[▰▰▰▰▰▰▰▰▰▰] 100%",
+        "delay": 0.8
+      },
+      {
+        "text": "✅ Selesai!",
+        "delay": 1
+      }
+    ]
+  },
+  "bom": {
+    "name": "bom",
+    "desc": "Bom meledak 💣",
+    "defaultDelay": 0.5,
+    "frames": [
+      {
+        "text": "💣 . . ."
+      },
+      {
+        "text": "💣 . ."
+      },
+      {
+        "text": "💣 ."
+      },
+      {
+        "text": "💥💥💥",
+        "delay": 0.7
+      },
+      {
+        "text": "   🔥   ",
+        "delay": 0.5
+      },
+      {
+        "text": "   💨   ",
+        "delay": 0.6
+      },
+      {
+        "text": "(nothing left)",
+        "delay": 0.9
+      }
+    ]
+  },
+  "roket": {
+    "name": "roket",
+    "desc": "Roket meluncur 🚀",
+    "defaultDelay": 0.4,
+    "frames": [
+      {
+        "text": "🚀\n.\n.\n.\n🌍"
+      },
+      {
+        "text": ".\n🚀\n.\n.\n🌍"
+      },
+      {
+        "text": ".\n.\n🚀\n.\n🌍"
+      },
+      {
+        "text": ".\n.\n.\n🚀\n🌍"
+      },
+      {
+        "text": "🌙\n.\n.\n.\n🚀",
+        "delay": 0.6
+      },
+      {
+        "text": "🌙🚀\n.\n.\n.\n.",
+        "delay": 0.8
+      },
+      {
+        "text": "✨🌙✨ sampai bulan!",
+        "delay": 1
+      }
+    ]
+  },
+  "ketawa": {
+    "name": "ketawa",
+    "desc": "Emot ketawa 😂",
+    "defaultDelay": 0.35,
+    "frames": [
+      {
+        "text": "😐"
+      },
+      {
+        "text": "🙂"
+      },
+      {
+        "text": "😄"
+      },
+      {
+        "text": "😂"
+      },
+      {
+        "text": "🤣",
+        "delay": 0.5
+      },
+      {
+        "text": "😂"
+      },
+      {
+        "text": "🤣 WKWKWK",
+        "delay": 0.8
+      }
+    ]
+  },
+  "love": {
+    "name": "love",
+    "desc": "Hati berdetak ❤️",
+    "defaultDelay": 0.4,
+    "frames": [
+      {
+        "text": "🤍"
+      },
+      {
+        "text": "❤️"
+      },
+      {
+        "text": "❤️❤️"
+      },
+      {
+        "text": "❤️❤️❤️"
+      },
+      {
+        "text": "❤️❤️"
+      },
+      {
+        "text": "❤️"
+      },
+      {
+        "text": "💖 I love you 💖",
+        "delay": 1
+      }
+    ]
+  },
+  "jam": {
+    "name": "jam",
+    "desc": "Jam berputar 🕐",
+    "defaultDelay": 0.25,
+    "frames": [
+      {
+        "text": "🕐"
+      },
+      {
+        "text": "🕑"
+      },
+      {
+        "text": "🕒"
+      },
+      {
+        "text": "🕓"
+      },
+      {
+        "text": "🕔"
+      },
+      {
+        "text": "🕕"
+      },
+      {
+        "text": "🕖"
+      },
+      {
+        "text": "🕗"
+      },
+      {
+        "text": "🕘"
+      },
+      {
+        "text": "🕙"
+      },
+      {
+        "text": "🕚"
+      },
+      {
+        "text": "🕛"
+      },
+      {
+        "text": "⏰ Waktunya!",
+        "delay": 1
+      }
+    ]
+  },
+  "bulan": {
+    "name": "bulan",
+    "desc": "Fase bulan 🌑→🌕",
+    "defaultDelay": 0.5,
+    "frames": [
+      {
+        "text": "🌑 New Moon"
+      },
+      {
+        "text": "🌒 Waxing"
+      },
+      {
+        "text": "🌓 First Quarter"
+      },
+      {
+        "text": "🌔 Waxing Gibbous"
+      },
+      {
+        "text": "🌕 Full Moon!",
+        "delay": 1
+      },
+      {
+        "text": "🌖 Waning"
+      },
+      {
+        "text": "🌗 Last Quarter"
+      },
+      {
+        "text": "🌘 Waning Crescent"
+      }
+    ]
+  },
+  "dadu": {
+    "name": "dadu",
+    "desc": "Lempar dadu 🎲",
+    "defaultDelay": 0.2,
+    "frames": [
+      {
+        "text": "🎲 ⚀"
+      },
+      {
+        "text": "🎲 ⚄"
+      },
+      {
+        "text": "🎲 ⚂"
+      },
+      {
+        "text": "🎲 ⚅"
+      },
+      {
+        "text": "🎲 ⚁"
+      },
+      {
+        "text": "🎲 ⚃"
+      },
+      {
+        "text": "🎲 ⚀"
+      },
+      {
+        "text": "🎲 ⚅"
+      },
+      {
+        "text": "🎲 ⚅  Hasil: 6!",
+        "delay": 1.2
+      }
+    ]
+  },
+  "halo": {
+    "name": "halo",
+    "desc": "Tulisan HALO muncul",
+    "defaultDelay": 0.3,
+    "frames": [
+      {
+        "text": "H"
+      },
+      {
+        "text": "H A"
+      },
+      {
+        "text": "H A L"
+      },
+      {
+        "text": "H A L O"
+      },
+      {
+        "text": "H A L O 👋",
+        "delay": 0.6
+      },
+      {
+        "text": "👋 HALO! 👋",
+        "delay": 1
+      }
+    ]
+  },
+  "kucing": {
+    "name": "kucing",
+    "desc": "Kucing ASCII 🐱",
+    "defaultDelay": 0.6,
+    "frames": [
+      {
+        "text": " /\\_/\\\n( o.o )\n > ^ <"
+      },
+      {
+        "text": " /\\_/\\\n( -.- )\n > ^ <"
+      },
+      {
+        "text": " /\\_/\\\n( o.o )\n > ^ <"
+      },
+      {
+        "text": " /\\_/\\\n( ^.^ )\n > ^ <",
+        "delay": 0.8
+      },
+      {
+        "text": " /\\_/\\\n( ^.^ )\n > ^ <  meow!",
+        "delay": 1.2
+      }
+    ]
+  }
+}
